@@ -55,4 +55,6 @@ MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg
 
 ## Questions
 
-Github: 
+Github: https://github.com/ryanhadfield
+
+Email: Ryan.Hadfield@gmail.com

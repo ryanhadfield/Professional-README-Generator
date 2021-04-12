@@ -131,6 +131,6 @@ ${answers.test}
 
 // Generates the ReadMe file and informs the user
 promptUser()
-  .then((answers) => writeFileAsync("README2.md", generateReadMe(answers)))
-  .then(() => console.log("Successfully wrote to README2.md"))
+  .then((answers) => writeFileAsync("Sample_README.md", generateReadMe(answers)))
+  .then(() => console.log("Successfully wrote to Sample_README.md"))
   .catch((err) => console.error(err));
